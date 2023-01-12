@@ -1,5 +1,5 @@
 {
-  "name": "moxyrus/laravel-queue-rabbitmq",
+  "name": "moxyrus/laravel-rabbitmq-queue",
   "description": "RabbitMQ driver for Laravel Queue. ",
   "license": "MIT",
   "authors": [
